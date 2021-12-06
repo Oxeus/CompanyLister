@@ -1,0 +1,9 @@
+Amazon|Executive Assistant|none|none|New York, New York|none|50000|3|none
+IBM|Offering Manager|none|none|New York, New York|none|100000|4|none
+JLL|Vice President|none|none|New York, New York|none|1|1|none
+Uline|Warehouse Associate|none|none|Ontario, California|none|500000|2|Great place to work!
+City of Portland|Total Rewards Manager|none|none|Portland, Oregon|none|1|1|none
+Oregon Club of Portland|Payroll Specialist (Administrative)|none|none|Portland, Oregon|none|40000|3|none
+Shaffer Trucking|CDL-A Driver|License|Non-Drinker|Portland, Oregon|Top Pay and Benefits|1000|4|none
+Tosoh Quartz Portland|Training Engineer|none|none|Portland, Oregon|none|50000|4|Great place to work!
+BNP Paribas|Relationship Banker|Diploma|Good with Money|Tualatin, Oregon|Bank of the West|50000|5|Great place to work!
